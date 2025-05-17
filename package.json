@@ -2,7 +2,7 @@
   "name": "drawingtable",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vanct-official.github.io/vanct-official.github.io/",
+  "homepage": "https://vanct-official.github.io/drawing-table/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
