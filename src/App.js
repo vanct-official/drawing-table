@@ -5,7 +5,7 @@ import BocThamChiaBang from "./pages/BocThamChiaBang";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/drawing-table">
         <Routes>
         <Route path="/" element={<BocThamChiaBang />} />
           <Route path="/boc-tham-chia-nhom" element={<BocThamChiaNhom />} />
