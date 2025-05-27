@@ -8,8 +8,8 @@ function App() {
       <BrowserRouter basename="/drawing-table">
         <Routes>
         <Route path="/" element={<BocThamChiaBang />} />
-          <Route path="/drawing-table/boc-tham-chia-nhom" element={<BocThamChiaNhom />} />
-          <Route path="/drawing-table/boc-tham-chia-bang" element={<BocThamChiaBang />} />
+          <Route path="/boc-tham-chia-nhom" element={<BocThamChiaNhom />} />
+          <Route path="/boc-tham-chia-bang" element={<BocThamChiaBang />} />
         </Routes>
       </BrowserRouter>
     </div>
